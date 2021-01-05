@@ -1,0 +1,28 @@
+#######################################
+# Syntax Coloring Map for TSL2572
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+ATtiny25			KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+readMoisture		KEYWORD2
+readTemp			KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+MIN_CAP_READ		LITERAL1
+MAX_CAP_READ		LITERAL1
+ANALOG_READ_MAX 	LITERAL1
+THERMISTOR_NOMINAL 	LITERAL1
+TEMPERATURE_NOMINAL LITERAL1
+B_COEFFICIENT 		LITERAL1
+SERIES_RESISTOR 	LITERAL1
